@@ -11,6 +11,7 @@ int main()
     SetConsoleOutputCP(1251);
     int i;
     double x, y, z;
+    cout << "\t \tРозрахунок задачі";
     cout << "Введіть x: ";
     cin >> x;
     for (i = 1; i <= 5; i++)
